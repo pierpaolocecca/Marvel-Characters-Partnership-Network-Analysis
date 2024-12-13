@@ -1,0 +1,1690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-12">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="group" type="long" />
+      <attribute id="1" title="size" type="long" />
+      <attribute id="2" title="pos" type="string" />
+      <attribute id="3" title="Community_mod" type="long" />
+    </attributes>
+    <nodes>
+      <node id="3" label="Hope Summers (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[8.48195439, 3.4959414]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="9" label="Venom (Marvel Comics character)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[12.35693599, -0.85961893]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="14" label="Beetle (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[3.96988641, -4.0789536]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="16" label="Malekith the Accursed">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[12.39476994, -8.65761085]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="17" label="Mister Negative">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[6.75960478, 2.22630203]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="18" label="Jessica Jones">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[11.67637442, 6.05468244]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="19" label="Maria Hill">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[16.12351224, 7.20757264]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="20" label="Master Izo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[12.70761654, 8.58827813]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="22" label="Nova (Sam Alexander)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[11.56901809, 0.9671786]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="24" label="Cable (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[9.39303166, 3.76752101]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="26" label="Mercurio the 4-D Man">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[11.94252256, -11.49388845]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="37" label="Magneto (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[13.15731421, -0.32088321]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="38" label="Wasp (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[6.10294703, -8.56104918]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="40" label="Spidercide">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[28.79991552, -18.51712713]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="41" label="Crimson Dynamo">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[21.59058159, -18.28748346]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="42" label="Nomad (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[18.40408263, 6.34826412]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="43" label="Kro (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[20.55442746, -10.46833086]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="46" label="Hawkeye (Kate Bishop)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[16.5374877, 3.88210085]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="47" label="Headlok">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[23.25273978, -18.81088615]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="49" label="War Machine">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[14.69481378, 7.39259196]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="50" label="Titania (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[14.53393194, -3.71781537]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="51" label="Bob, Agent of Hydra">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[10.95493217, 4.44510894]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="53" label="Nick Fury">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[16.49953305, 8.68173513]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="55" label="Mandarin (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[20.73787493, -14.41421982]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="57" label="Kraven the Hunter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[6.39951817, 0.33969808]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="58" label="Daredevil (Marvel Comics character)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[13.90951496, 5.74761157]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="59" label="Llyra">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[18.94634084, -10.72950875]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="61" label="Anya Corazon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[12.21351439, 3.69402724]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="63" label="Ulik">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[13.26689783, -6.98997182]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="64" label="Iron Man (Ultimate Marvel character)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[14.75647374, 8.40621674]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="67" label="Bucky Barnes">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[16.58049729, 5.88924077]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="69" label="Tarantula (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[29.272317, -17.32609719]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="70" label="Enchantress (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[12.52814483, -5.58154437]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="72" label="Spider-Man (Miles Morales)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[11.99437535, 1.74294393]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="73" label="Thing (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[22.39314587, -11.08316605]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="74" label="Tombstone (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[5.73554328, 2.05289057]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="77" label="Iron Man">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[14.88074809, 6.08967684]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="79" label="Answer (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[21.45962454, -19.20288715]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="80" label="Erik Josten">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[10.91937837, -5.8696019]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="82" label="Kurse">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[12.13958447, -9.76636293]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="84" label="Lemuel Dorcas">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[17.75754867, -9.24935854]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="90" label="Lorelei (Asgardian)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[11.58067002, -7.28390282]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="91" label="Shiver Man">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[16.93367055, 9.93397609]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="93" label="Shriker">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[16.50693706, -0.84269809]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="94" label="Riri Williams">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[14.84947403, 5.32205873]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="96" label="Carrion (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[11.44482771, -2.76699705]" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="98" label="Space Phantom">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[9.41399742, -7.02953489]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="100" label="Glob (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[4.9717307, -0.33694717]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="106" label="Tiger Shark (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[17.89164903, -10.04722582]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="107" label="Mad Thinker">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[16.50170568, -5.78817932]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="109" label="Mariko Yashida">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[16.32522643, 11.74129875]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="110" label="Demogoblin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[11.77813169, -2.43388226]" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="112" label="Scarecrow (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[22.87244496, -14.81072271]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="113" label="Redwing (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[19.562324, 7.4552061]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="117" label="Baron Strucker">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[9.29351436, 0.20143879]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="119" label="Swordsman (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[16.00311962, 3.12815205]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="121" label="Falcon (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[18.70164511, 6.98784884]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="122" label="Krang (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[17.27950349, -8.10377786]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="123" label="Mandrill (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[8.16343469, -4.26883734]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="131" label="Molten Man">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[25.01512385, -15.25062193]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="133" label="Abomination (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[4.87180316, -1.49725437]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="134" label="Ghaur">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[19.62566238, -10.35783233]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="136" label="Copycat (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[10.08214049, 4.59841974]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="139" label="Hulk (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[23.05814328, -12.00977779]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="140" label="Ymir (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[11.1179356, -8.85635845]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="145" label="Spot (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[27.00676013, -16.33430886]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="147" label="Prowler (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[13.11001014, 1.43145313]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="150" label="Harry Osborn">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[13.86681255, 1.85371561]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="153" label="Tyrak">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[19.40860393, -9.25979375]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="156" label="Garrison Kane">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[9.53504034, 5.48808521]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="160" label="Mockingbird (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[14.3983119, 3.10285544]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="161" label="Man-Ape">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[9.73222149, -5.47790187]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="162" label="Iron Fist (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="[12.85504027, 7.33855959]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="163" label="Crossbones (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[9.15628217, -1.61516239]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="164" label="Egghead (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[16.06121199, -6.50573489]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="165" label="Demolition Man (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[18.20442359, 5.76717901]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="167" label="Deadpool">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[10.89380161, 3.55240635]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="168" label="Sin (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[9.775682, -1.82874592]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="170" label="Wonder Man">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[13.34955054, -5.55085946]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="171" label="Helmut Zemo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[9.07659517, 1.07214796]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="172" label="Rachel Summers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[8.57640863, 4.43742075]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="173" label="Eel (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[22.33015246, -15.18159244]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="175" label="Wizard (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[15.88427786, -5.26395273]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="176" label="Beast (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[17.83295693, 10.50723231]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="177" label="Nekra">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[8.64480749, -5.17239704]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="178" label="Hela (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[13.51788429, -8.09923628]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="181" label="Doctor Doom">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[13.61939443, -3.838113]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="185" label="Hawkeye (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[15.56332092, 4.00248451]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="186" label="Wraith (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[13.99063943, 4.24415395]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="189" label="Puma (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[13.5656906, 2.71006116]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="191" label="Black Cat (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[12.87642011, 2.99835763]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="192" label="Fenris Wolf (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[14.42882846, -8.14569804]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="193" label="Spider-Man">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="[12.83910129, 2.37758462]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="195" label="Ringer (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[4.78665499, -3.75980982]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="196" label="Power Broker">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[10.46606403, -1.07147017]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="197" label="Misty Knight">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[12.24123169, 7.8907731]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="199" label="Doctor Octopus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[7.64641001, 0.72710263]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="200" label="Luke Cage">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[11.94999261, 7.06677331]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="203" label="Leila Davis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[5.8022678, -3.29844173]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="204" label="Executioner (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[11.95305793, -5.11454]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="205" label="Silver Samurai">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[7.93580331, -3.22736881]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="206" label="Rhino (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[5.09670271, -2.50295642]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="208" label="Will o' the Wisp (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[24.22415869, -15.56481983]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="209" label="Black Fox (Raul Chalmers)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[19.92714165, -12.68829212]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="213" label="Darkstar (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[21.95042605, -17.26501298]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="216" label="Mole Man">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[21.76419967, -11.73966011]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="217" label="Thor (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[11.69842262, -10.68889433]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="218" label="Surtur (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[11.84689822, -8.23852855]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="219" label="Unicorn (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="[21.63071399, -14.13260612]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="220" label="Black Widow (Natasha Romanova)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[15.77018027, 5.50076548]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="222" label="Janice Lincoln">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[5.00033708, 2.6184885]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="223" label="Leader (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[5.91115341, -0.69574768]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="227" label="Ghost Rider">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[15.67587577, -1.12770534]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="228" label="Cletus Kasady">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[11.66538626, -3.34852469]" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="230" label="Colleen Wing">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[11.67851707, 7.73997833]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="231" label="Gibbon (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[26.20419742, -17.85692745]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="233" label="Shriek (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[12.13912542, -3.04103133]" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="237" label="Doctor Faustus (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[8.76125571, -0.70566994]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="238" label="Attuma">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="[18.74363408, -9.90124429]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="243" label="Vulture (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[5.81836064, -4.20391268]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="245" label="Kala (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[21.86248708, -12.52624665]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="246" label="Jocasta (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[7.52236053, -7.60574786]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="247" label="Electro (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[7.19056194, -0.83727275]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="248" label="Chameleon (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[7.45019976, -0.077801]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="249" label="Spider-Woman (Jessica Drew)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[11.60436738, 3.03422976]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="250" label="Doc Samson">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[23.8939611, -11.64655818]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="251" label="Grizzly (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[27.48345366, -17.43432803]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="253" label="She-Hulk">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[23.83300464, -12.5998142]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="254" label="Vengeance (comics)">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[14.7140131, -1.26672973]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="255" label="Bucky (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.01223065, 7.34514434]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="258" label="Porcupine (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[22.30892621, -14.29835433]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="259" label="Kangaroo (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[26.42625006, -16.98605135]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="263" label="Free Spirit (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.90747698, 7.04752919]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="266" label="Klaw (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.34995908, -6.10177671]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="267" label="Kingpin (character)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[13.28687574, 4.15773766]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="269" label="Red Ghost">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="[20.40431573, -11.99066177]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="270" label="Hank Pym">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[6.76181697, -8.09640597]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="271" label="Titanium Man">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[21.66120231, -15.8696985]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="273" label="Absorbing Man">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[15.34153828, -3.49122902]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="275" label="Grim Reaper (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[9.33274128, -6.15088659]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="276" label="Boomerang (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[7.12106011, -2.87748005]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="278" label="Black Talon (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[8.41877692, -6.14556626]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="283" label="Jack Flag">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.48393354, 5.50181687]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="285" label="Power Man (Victor Alvarez)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[12.56484214, 6.69329996]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="286" label="Abigail Brand">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[18.55829233, 11.03330284]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="287" label="Awesome Android">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.10588991, -5.07410136]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="288" label="Spider-Woman (Gwen Stacy)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[11.33153592, 2.24464668]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="289" label="Domino (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[10.07621689, 3.83290921]" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="290" label="Wolverine (character)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[16.56631897, 10.89024439]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="293" label="Madman (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[5.88704367, -1.46728874]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="295" label="Carnage (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[12.12730542, -1.96062587]" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="297" label="Eddie Brock">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[13.6079867, -1.2136543]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="300" label="Midgard Serpent (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[13.83897992, -8.96974047]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="301" label="Captain America">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="[17.30440748, 6.49254656]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="303" label="Calypso (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[5.50059736, 0.7386032]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="305" label="Red Skull">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="[9.61927631, -0.88056736]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="307" label="Silk (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[12.10738952, 2.48209944]" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="310" label="Loki (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="[12.52581724, -7.36097897]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="312" label="Orka (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.84887667, -7.55229212]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="314" label="Pluto (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[10.77105725, -7.58460069]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="316" label="Sif (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[10.88819644, -11.03762033]" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="317" label="Griffin (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[22.72406165, -18.06048429]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="318" label="Garokk">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[14.00429691, -0.02511221]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="319" label="Pepper Potts">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[15.21715843, 6.78390738]" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="321" label="Caretaker (comics)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.18424103, -0.41657589]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="323" label="Arnim Zola">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[10.1705159, -0.17856095]" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="324" label="Jonas Harrow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[25.31186786, -16.36402833]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="325" label="Rikki Barnes">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[17.72645414, 7.7238466]" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="326" label="White Tiger (Angela del Toro)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[13.41292007, 8.14418091]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="327" label="Hammerhead (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[6.68595616, 1.30635784]" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="328" label="Viper (Madame Hydra)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[8.31731377, -2.1801964]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="329" label="Puppet Master (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[15.5384852, -5.94124818]" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="331" label="Ultron">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[8.36092218, -7.03016927]" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="332" label="Byrrah">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[18.18740733, -8.81670056]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="334" label="Carol Danvers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[11.96596353, 4.96882137]" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="335" label="Jackal (Marvel Comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="[28.46976517, -17.72791253]" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="336" label="Galaxy Master">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="[3.89407027, -1.47000636]" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="337" label="Doppelganger (comics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="[12.37393603, -2.6158691]" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="338" label="Plantman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[22.79926374, -13.95733256]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="340" label="Count Nefaria">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[21.77409596, -14.89753358]" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="348" label="Giganto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="[21.28218179, -10.9452362]" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="3" target="24" id="0" />
+      <edge source="9" target="295" id="1" />
+      <edge source="9" target="181" id="2" />
+      <edge source="9" target="193" id="3" />
+      <edge source="9" target="37" id="4" />
+      <edge source="9" target="305" id="5" />
+      <edge source="9" target="297" id="6" />
+      <edge source="14" target="195" id="7" />
+      <edge source="16" target="218" id="8" />
+      <edge source="16" target="82" id="9" />
+      <edge source="16" target="310" id="10" />
+      <edge source="17" target="327" id="11" />
+      <edge source="18" target="334" id="12" />
+      <edge source="18" target="200" id="13" />
+      <edge source="19" target="77" id="14" />
+      <edge source="19" target="53" id="15" />
+      <edge source="19" target="301" id="16" />
+      <edge source="20" target="162" id="17" />
+      <edge source="22" target="72" id="18" />
+      <edge source="24" target="289" id="19" />
+      <edge source="24" target="172" id="20" />
+      <edge source="24" target="167" id="21" />
+      <edge source="26" target="217" id="22" />
+      <edge source="37" target="318" id="23" />
+      <edge source="38" target="270" id="24" />
+      <edge source="40" target="335" id="25" />
+      <edge source="41" target="79" id="26" />
+      <edge source="41" target="213" id="27" />
+      <edge source="42" target="165" id="28" />
+      <edge source="42" target="121" id="29" />
+      <edge source="42" target="301" id="30" />
+      <edge source="43" target="134" id="31" />
+      <edge source="43" target="348" id="32" />
+      <edge source="46" target="185" id="33" />
+      <edge source="47" target="317" id="34" />
+      <edge source="49" target="77" id="35" />
+      <edge source="49" target="64" id="36" />
+      <edge source="50" target="181" id="37" />
+      <edge source="50" target="273" id="38" />
+      <edge source="51" target="167" id="39" />
+      <edge source="53" target="91" id="40" />
+      <edge source="55" target="219" id="41" />
+      <edge source="57" target="303" id="42" />
+      <edge source="57" target="248" id="43" />
+      <edge source="58" target="220" id="44" />
+      <edge source="58" target="267" id="45" />
+      <edge source="58" target="162" id="46" />
+      <edge source="59" target="238" id="47" />
+      <edge source="59" target="134" id="48" />
+      <edge source="61" target="193" id="49" />
+      <edge source="61" target="249" id="50" />
+      <edge source="61" target="334" id="51" />
+      <edge source="63" target="310" id="52" />
+      <edge source="67" target="220" id="53" />
+      <edge source="67" target="301" id="54" />
+      <edge source="69" target="335" id="55" />
+      <edge source="70" target="170" id="56" />
+      <edge source="70" target="204" id="57" />
+      <edge source="70" target="181" id="58" />
+      <edge source="70" target="80" id="59" />
+      <edge source="70" target="310" id="60" />
+      <edge source="72" target="193" id="61" />
+      <edge source="72" target="288" id="62" />
+      <edge source="72" target="307" id="63" />
+      <edge source="73" target="216" id="64" />
+      <edge source="74" target="327" id="65" />
+      <edge source="74" target="222" id="66" />
+      <edge source="77" target="186" id="67" />
+      <edge source="77" target="319" id="68" />
+      <edge source="77" target="94" id="69" />
+      <edge source="80" target="275" id="70" />
+      <edge source="82" target="217" id="71" />
+      <edge source="84" target="238" id="72" />
+      <edge source="84" target="332" id="73" />
+      <edge source="84" target="122" id="74" />
+      <edge source="84" target="106" id="75" />
+      <edge source="90" target="314" id="76" />
+      <edge source="90" target="310" id="77" />
+      <edge source="91" target="176" id="78" />
+      <edge source="91" target="290" id="79" />
+      <edge source="93" target="321" id="80" />
+      <edge source="93" target="227" id="81" />
+      <edge source="96" target="295" id="82" />
+      <edge source="96" target="110" id="83" />
+      <edge source="96" target="233" id="84" />
+      <edge source="96" target="228" id="85" />
+      <edge source="96" target="337" id="86" />
+      <edge source="98" target="275" id="87" />
+      <edge source="100" target="223" id="88" />
+      <edge source="106" target="238" id="89" />
+      <edge source="107" target="164" id="90" />
+      <edge source="107" target="329" id="91" />
+      <edge source="107" target="287" id="92" />
+      <edge source="107" target="175" id="93" />
+      <edge source="107" target="266" id="94" />
+      <edge source="109" target="290" id="95" />
+      <edge source="110" target="295" id="96" />
+      <edge source="110" target="337" id="97" />
+      <edge source="110" target="228" id="98" />
+      <edge source="110" target="233" id="99" />
+      <edge source="112" target="173" id="100" />
+      <edge source="112" target="258" id="101" />
+      <edge source="112" target="340" id="102" />
+      <edge source="112" target="208" id="103" />
+      <edge source="112" target="219" id="104" />
+      <edge source="112" target="338" id="105" />
+      <edge source="113" target="121" id="106" />
+      <edge source="117" target="171" id="107" />
+      <edge source="117" target="305" id="108" />
+      <edge source="119" target="185" id="109" />
+      <edge source="121" target="301" id="110" />
+      <edge source="122" target="238" id="111" />
+      <edge source="122" target="312" id="112" />
+      <edge source="122" target="329" id="113" />
+      <edge source="122" target="332" id="114" />
+      <edge source="123" target="205" id="115" />
+      <edge source="123" target="177" id="116" />
+      <edge source="131" target="208" id="117" />
+      <edge source="133" target="223" id="118" />
+      <edge source="133" target="206" id="119" />
+      <edge source="133" target="336" id="120" />
+      <edge source="134" target="238" id="121" />
+      <edge source="136" target="289" id="122" />
+      <edge source="136" target="167" id="123" />
+      <edge source="136" target="156" id="124" />
+      <edge source="139" target="216" id="125" />
+      <edge source="139" target="253" id="126" />
+      <edge source="139" target="250" id="127" />
+      <edge source="140" target="218" id="128" />
+      <edge source="145" target="259" id="129" />
+      <edge source="147" target="193" id="130" />
+      <edge source="150" target="193" id="131" />
+      <edge source="153" target="238" id="132" />
+      <edge source="160" target="193" id="133" />
+      <edge source="160" target="185" id="134" />
+      <edge source="161" target="275" id="135" />
+      <edge source="162" target="285" id="136" />
+      <edge source="162" target="200" id="137" />
+      <edge source="162" target="197" id="138" />
+      <edge source="162" target="230" id="139" />
+      <edge source="162" target="326" id="140" />
+      <edge source="163" target="305" id="141" />
+      <edge source="163" target="168" id="142" />
+      <edge source="164" target="329" id="143" />
+      <edge source="165" target="301" id="144" />
+      <edge source="167" target="289" id="145" />
+      <edge source="167" target="193" id="146" />
+      <edge source="168" target="305" id="147" />
+      <edge source="173" target="219" id="148" />
+      <edge source="175" target="329" id="149" />
+      <edge source="176" target="286" id="150" />
+      <edge source="177" target="275" id="151" />
+      <edge source="178" target="300" id="152" />
+      <edge source="178" target="192" id="153" />
+      <edge source="178" target="310" id="154" />
+      <edge source="181" target="329" id="155" />
+      <edge source="185" target="220" id="156" />
+      <edge source="186" target="193" id="157" />
+      <edge source="189" target="193" id="158" />
+      <edge source="189" target="191" id="159" />
+      <edge source="191" target="193" id="160" />
+      <edge source="191" target="307" id="161" />
+      <edge source="193" target="267" id="162" />
+      <edge source="193" target="307" id="163" />
+      <edge source="195" target="203" id="164" />
+      <edge source="196" target="305" id="165" />
+      <edge source="197" target="230" id="166" />
+      <edge source="197" target="200" id="167" />
+      <edge source="199" target="248" id="168" />
+      <edge source="200" target="285" id="169" />
+      <edge source="200" target="230" id="170" />
+      <edge source="203" target="276" id="171" />
+      <edge source="203" target="243" id="172" />
+      <edge source="203" target="206" id="173" />
+      <edge source="205" target="276" id="174" />
+      <edge source="205" target="328" id="175" />
+      <edge source="208" target="324" id="176" />
+      <edge source="209" target="269" id="177" />
+      <edge source="213" target="317" id="178" />
+      <edge source="213" target="271" id="179" />
+      <edge source="216" target="245" id="180" />
+      <edge source="216" target="269" id="181" />
+      <edge source="216" target="348" id="182" />
+      <edge source="217" target="316" id="183" />
+      <edge source="218" target="310" id="184" />
+      <edge source="219" target="269" id="185" />
+      <edge source="219" target="271" id="186" />
+      <edge source="219" target="258" id="187" />
+      <edge source="219" target="340" id="188" />
+      <edge source="219" target="338" id="189" />
+      <edge source="220" target="301" id="190" />
+      <edge source="223" target="293" id="191" />
+      <edge source="223" target="248" id="192" />
+      <edge source="227" target="254" id="193" />
+      <edge source="228" target="337" id="194" />
+      <edge source="228" target="233" id="195" />
+      <edge source="231" target="259" id="196" />
+      <edge source="233" target="295" id="197" />
+      <edge source="233" target="337" id="198" />
+      <edge source="237" target="305" id="199" />
+      <edge source="238" target="269" id="200" />
+      <edge source="238" target="332" id="201" />
+      <edge source="246" target="331" id="202" />
+      <edge source="246" target="270" id="203" />
+      <edge source="247" target="248" id="204" />
+      <edge source="248" target="327" id="205" />
+      <edge source="248" target="305" id="206" />
+      <edge source="249" target="307" id="207" />
+      <edge source="249" target="288" id="208" />
+      <edge source="251" target="259" id="209" />
+      <edge source="251" target="335" id="210" />
+      <edge source="254" target="297" id="211" />
+      <edge source="255" target="301" id="212" />
+      <edge source="259" target="324" id="213" />
+      <edge source="263" target="301" id="214" />
+      <edge source="275" target="331" id="215" />
+      <edge source="275" target="278" id="216" />
+      <edge source="276" target="328" id="217" />
+      <edge source="283" target="301" id="218" />
+      <edge source="288" target="307" id="219" />
+      <edge source="295" target="337" id="220" />
+      <edge source="301" target="325" id="221" />
+      <edge source="305" target="328" id="222" />
+      <edge source="305" target="323" id="223" />
+    </edges>
+  </graph>
+</gexf>
